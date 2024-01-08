@@ -4,8 +4,18 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanieKontemGoogle() {
+public void logowanieKontemGoogle() {
         System.out.println("Zaloguj się gmailem")
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+
+
+public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+
