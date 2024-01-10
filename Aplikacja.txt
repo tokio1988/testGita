@@ -18,6 +18,7 @@ public void logowanieMicrosoft() {
 
 public void przypomnijHasło() {
         System.out.println("Przypomnij hasło!!!");
-    }
+	System.out.println("Przypomnij hasło!!!");
+}
 
 
