@@ -10,12 +10,14 @@ public void logowanieKontemGoogle() {
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-
-
 public void logowanieMicrosoft() {
         System.out.println("Podaj nazwę użytkownika Microsoft");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+public void przypomnijHasło() {
+        System.out.println("Przypomnij hasło!!!");
     }
 
 
